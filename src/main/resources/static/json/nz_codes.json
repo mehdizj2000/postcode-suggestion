@@ -1,0 +1,3233 @@
+[
+  {
+    "Id": 3110,
+    "CountryCode": "NZ",
+    "PostCode": "0110",
+    "Suburb": "OTAIKA",
+    "Latitude": -35.74182,
+    "Longitude": 174.3095,
+    "Version": "0x00000000000AA9EA"
+  },
+  {
+    "Id": 3111,
+    "CountryCode": "NZ",
+    "PostCode": "0112",
+    "Suburb": "KAMO",
+    "Latitude": -35.69138,
+    "Longitude": 174.3098,
+    "Version": "0x00000000000AA9EB"
+  },
+  {
+    "Id": 3112,
+    "CountryCode": "NZ",
+    "PostCode": "0114",
+    "Suburb": "HIKURANGI",
+    "Latitude": -35.60091,
+    "Longitude": 174.2868,
+    "Version": "0x00000000000AA9EC"
+  },
+  {
+    "Id": 3113,
+    "CountryCode": "NZ",
+    "PostCode": "0116",
+    "Suburb": "RUAKAKA",
+    "Latitude": -35.91088,
+    "Longitude": 174.4553,
+    "Version": "0x00000000000AA9ED"
+  },
+  {
+    "Id": 3114,
+    "CountryCode": "NZ",
+    "PostCode": "0200",
+    "Suburb": "OPUA",
+    "Latitude": -35.3071,
+    "Longitude": 174.1056,
+    "Version": "0x00000000000AA9EE"
+  },
+  {
+    "Id": 3115,
+    "CountryCode": "NZ",
+    "PostCode": "0202",
+    "Suburb": "RUSSELL",
+    "Latitude": -35.26227,
+    "Longitude": 174.1252,
+    "Version": "0x00000000000AA9EF"
+  },
+  {
+    "Id": 3116,
+    "CountryCode": "NZ",
+    "PostCode": "0210",
+    "Suburb": "KAWAKAWA",
+    "Latitude": -35.38344,
+    "Longitude": 174.0659,
+    "Version": "0x00000000000AA9F0"
+  },
+  {
+    "Id": 3117,
+    "CountryCode": "NZ",
+    "PostCode": "0211",
+    "Suburb": "MOEREWA",
+    "Latitude": -35.38718,
+    "Longitude": 174.0237,
+    "Version": "0x00000000000AA9F1"
+  },
+  {
+    "Id": 3118,
+    "CountryCode": "NZ",
+    "PostCode": "0230",
+    "Suburb": "KERIKERI",
+    "Latitude": -35.23758,
+    "Longitude": 173.9335,
+    "Version": "0x00000000000AA9F2"
+  },
+  {
+    "Id": 3119,
+    "CountryCode": "NZ",
+    "PostCode": "0310",
+    "Suburb": "DARGAVILLE",
+    "Latitude": -35.98404,
+    "Longitude": 173.8869,
+    "Version": "0x00000000000AA9F3"
+  },
+  {
+    "Id": 3120,
+    "CountryCode": "NZ",
+    "PostCode": "0405",
+    "Suburb": "KAIKOHE",
+    "Latitude": -35.41274,
+    "Longitude": 173.8068,
+    "Version": "0x00000000000AA9F4"
+  },
+  {
+    "Id": 3121,
+    "CountryCode": "NZ",
+    "PostCode": "0410",
+    "Suburb": "KAITAIA",
+    "Latitude": -35.10391,
+    "Longitude": 173.2643,
+    "Version": "0x00000000000AA9F5"
+  },
+  {
+    "Id": 3122,
+    "CountryCode": "NZ",
+    "PostCode": "0420",
+    "Suburb": "TAIPA",
+    "Latitude": -34.99331,
+    "Longitude": 173.4615,
+    "Version": "0x00000000000AA9F6"
+  },
+  {
+    "Id": 3123,
+    "CountryCode": "NZ",
+    "PostCode": "0505",
+    "Suburb": "MANGAWHAI HEADS",
+    "Latitude": -36.08902,
+    "Longitude": 174.5893,
+    "Version": "0x00000000000AA9F7"
+  },
+  {
+    "Id": 3124,
+    "CountryCode": "NZ",
+    "PostCode": "0510",
+    "Suburb": "WAIPU",
+    "Latitude": -35.98716,
+    "Longitude": 174.4444,
+    "Version": "0x00000000000AA9F8"
+  },
+  {
+    "Id": 3125,
+    "CountryCode": "NZ",
+    "PostCode": "0520",
+    "Suburb": "MAUNGATUROTO",
+    "Latitude": -36.11501,
+    "Longitude": 174.3486,
+    "Version": "0x00000000000AA9F9"
+  },
+  {
+    "Id": 3126,
+    "CountryCode": "NZ",
+    "PostCode": "0530",
+    "Suburb": "RUAWAI",
+    "Latitude": -36.13737,
+    "Longitude": 174.0246,
+    "Version": "0x00000000000AA9FA"
+  },
+  {
+    "Id": 3127,
+    "CountryCode": "NZ",
+    "PostCode": "0600",
+    "Suburb": "AVONDALE",
+    "Latitude": -36.90201,
+    "Longitude": 174.7009,
+    "Version": "0x00000000000AA9FB"
+  },
+  {
+    "Id": 3128,
+    "CountryCode": "NZ",
+    "PostCode": "0602",
+    "Suburb": "GLEN EDEN",
+    "Latitude": -36.91708,
+    "Longitude": 174.6322,
+    "Version": "0x00000000000AA9FC"
+  },
+  {
+    "Id": 3129,
+    "CountryCode": "NZ",
+    "PostCode": "0604",
+    "Suburb": "TITIRANGI",
+    "Latitude": -36.96016,
+    "Longitude": 174.6514,
+    "Version": "0x00000000000AA9FD"
+  },
+  {
+    "Id": 3130,
+    "CountryCode": "NZ",
+    "PostCode": "0610",
+    "Suburb": "TE ATATU PENINSULA",
+    "Latitude": -36.83064,
+    "Longitude": 174.6449,
+    "Version": "0x00000000000AA9FE"
+  },
+  {
+    "Id": 3131,
+    "CountryCode": "NZ",
+    "PostCode": "0612",
+    "Suburb": "HENDERSON",
+    "Latitude": -36.87996,
+    "Longitude": 174.6416,
+    "Version": "0x00000000000AA9FF"
+  },
+  {
+    "Id": 3132,
+    "CountryCode": "NZ",
+    "PostCode": "0614",
+    "Suburb": "MASSEY",
+    "Latitude": -36.84695,
+    "Longitude": 174.6122,
+    "Version": "0x00000000000AAA01"
+  },
+  {
+    "Id": 3133,
+    "CountryCode": "NZ",
+    "PostCode": "0618",
+    "Suburb": "WHENUAPAI",
+    "Latitude": -36.79359,
+    "Longitude": 174.618,
+    "Version": "0x00000000000AAA02"
+  },
+  {
+    "Id": 3134,
+    "CountryCode": "NZ",
+    "PostCode": "0620",
+    "Suburb": "CASTOR BAY",
+    "Latitude": -36.75505,
+    "Longitude": 174.7585,
+    "Version": "0x00000000000AAA03"
+  },
+  {
+    "Id": 3135,
+    "CountryCode": "NZ",
+    "PostCode": "0622",
+    "Suburb": "BELMONT",
+    "Latitude": -36.80862,
+    "Longitude": 174.7926,
+    "Version": "0x00000000000AAA04"
+  },
+  {
+    "Id": 3136,
+    "CountryCode": "NZ",
+    "PostCode": "0624",
+    "Suburb": "DEVONPORT",
+    "Latitude": -36.82319,
+    "Longitude": 174.7934,
+    "Version": "0x00000000000AAA05"
+  },
+  {
+    "Id": 3137,
+    "CountryCode": "NZ",
+    "PostCode": "0626",
+    "Suburb": "BIRKDALE",
+    "Latitude": -36.80138,
+    "Longitude": 174.7068,
+    "Version": "0x00000000000AAA06"
+  },
+  {
+    "Id": 3138,
+    "CountryCode": "NZ",
+    "PostCode": "0627",
+    "Suburb": "NORTHCOTE",
+    "Latitude": -36.79543,
+    "Longitude": 174.7532,
+    "Version": "0x00000000000AAA07"
+  },
+  {
+    "Id": 3139,
+    "CountryCode": "NZ",
+    "PostCode": "0629",
+    "Suburb": "MARLBOROUGH",
+    "Latitude": -36.7881,
+    "Longitude": 174.7264,
+    "Version": "0x00000000000AAA08"
+  },
+  {
+    "Id": 3140,
+    "CountryCode": "NZ",
+    "PostCode": "0630",
+    "Suburb": "MURRAYS BAY",
+    "Latitude": -36.73174,
+    "Longitude": 174.738,
+    "Version": "0x00000000000AAA09"
+  },
+  {
+    "Id": 3141,
+    "CountryCode": "NZ",
+    "PostCode": "0632",
+    "Suburb": "ALBANY",
+    "Latitude": -36.75219,
+    "Longitude": 174.6832,
+    "Version": "0x00000000000AAA0A"
+  },
+  {
+    "Id": 3142,
+    "CountryCode": "NZ",
+    "PostCode": "0800",
+    "Suburb": "HELENSVILLE",
+    "Latitude": -36.6786,
+    "Longitude": 174.4567,
+    "Version": "0x00000000000AAA0B"
+  },
+  {
+    "Id": 3143,
+    "CountryCode": "NZ",
+    "PostCode": "0810",
+    "Suburb": "KUMEU",
+    "Latitude": -36.78149,
+    "Longitude": 174.5478,
+    "Version": "0x00000000000AAA0C"
+  },
+  {
+    "Id": 3144,
+    "CountryCode": "NZ",
+    "PostCode": "0812",
+    "Suburb": "WAIMAUKU",
+    "Latitude": -36.77229,
+    "Longitude": 174.4892,
+    "Version": "0x00000000000AAA0D"
+  },
+  {
+    "Id": 3145,
+    "CountryCode": "NZ",
+    "PostCode": "0814",
+    "Suburb": "MASSEY",
+    "Latitude": -36.82129,
+    "Longitude": 174.609,
+    "Version": "0x00000000000AAA0E"
+  },
+  {
+    "Id": 3146,
+    "CountryCode": "NZ",
+    "PostCode": "0820",
+    "Suburb": "RIVERHEAD",
+    "Latitude": -36.75771,
+    "Longitude": 174.5949,
+    "Version": "0x00000000000AAA0F"
+  },
+  {
+    "Id": 3147,
+    "CountryCode": "NZ",
+    "PostCode": "0830",
+    "Suburb": "PARAKAI",
+    "Latitude": -36.66102,
+    "Longitude": 174.4309,
+    "Version": "0x00000000000AAA10"
+  },
+  {
+    "Id": 3148,
+    "CountryCode": "NZ",
+    "PostCode": "0900",
+    "Suburb": "WELLSFORD",
+    "Latitude": -36.28772,
+    "Longitude": 174.5235,
+    "Version": "0x00000000000AAA11"
+  },
+  {
+    "Id": 3149,
+    "CountryCode": "NZ",
+    "PostCode": "0910",
+    "Suburb": "WARKWORTH",
+    "Latitude": -36.39597,
+    "Longitude": 174.6526,
+    "Version": "0x00000000000AAA12"
+  },
+  {
+    "Id": 3150,
+    "CountryCode": "NZ",
+    "PostCode": "0920",
+    "Suburb": "ALGIES BAY",
+    "Latitude": -36.43591,
+    "Longitude": 174.7423,
+    "Version": "0x00000000000AAA13"
+  },
+  {
+    "Id": 3151,
+    "CountryCode": "NZ",
+    "PostCode": "0930",
+    "Suburb": "GULF HARBOUR",
+    "Latitude": -36.60857,
+    "Longitude": 174.7889,
+    "Version": "0x00000000000AAA14"
+  },
+  {
+    "Id": 3152,
+    "CountryCode": "NZ",
+    "PostCode": "0931",
+    "Suburb": "OREWA",
+    "Latitude": -36.5831,
+    "Longitude": 174.6927,
+    "Version": "0x00000000000AAA15"
+  },
+  {
+    "Id": 3153,
+    "CountryCode": "NZ",
+    "PostCode": "0932",
+    "Suburb": "REDVALE",
+    "Latitude": -36.61775,
+    "Longitude": 174.6774,
+    "Version": "0x00000000000AAA16"
+  },
+  {
+    "Id": 3154,
+    "CountryCode": "NZ",
+    "PostCode": 1010,
+    "Suburb": "AUCKLAND CENTRAL",
+    "Latitude": -36.85978,
+    "Longitude": 174.7538,
+    "Version": "0x00000000000AAA17"
+  },
+  {
+    "Id": 3155,
+    "CountryCode": "NZ",
+    "PostCode": 1011,
+    "Suburb": "PONSONBY",
+    "Latitude": -36.84806,
+    "Longitude": 174.7351,
+    "Version": "0x00000000000AAA18"
+  },
+  {
+    "Id": 3156,
+    "CountryCode": "NZ",
+    "PostCode": 1021,
+    "Suburb": "KINGSLAND",
+    "Latitude": -36.86895,
+    "Longitude": 174.7525,
+    "Version": "0x00000000000AAA19"
+  },
+  {
+    "Id": 3157,
+    "CountryCode": "NZ",
+    "PostCode": 1022,
+    "Suburb": "POINT CHEVALIER",
+    "Latitude": -36.8694,
+    "Longitude": 174.7067,
+    "Version": "0x00000000000AAA1A"
+  },
+  {
+    "Id": 3158,
+    "CountryCode": "NZ",
+    "PostCode": 1023,
+    "Suburb": "EPSOM",
+    "Latitude": -36.88999,
+    "Longitude": 174.7646,
+    "Version": "0x00000000000AAA1B"
+  },
+  {
+    "Id": 3159,
+    "CountryCode": "NZ",
+    "PostCode": 1024,
+    "Suburb": "MT EDEN",
+    "Latitude": -36.87007,
+    "Longitude": 174.7521,
+    "Version": "0x00000000000AAA1C"
+  },
+  {
+    "Id": 3160,
+    "CountryCode": "NZ",
+    "PostCode": 1025,
+    "Suburb": "MT ALBERT",
+    "Latitude": -36.89752,
+    "Longitude": 174.7149,
+    "Version": "0x00000000000AAA1D"
+  },
+  {
+    "Id": 3161,
+    "CountryCode": "NZ",
+    "PostCode": 1026,
+    "Suburb": "WATERVIEW",
+    "Latitude": -36.87783,
+    "Longitude": 174.6987,
+    "Version": "0x00000000000AAA1E"
+  },
+  {
+    "Id": 3162,
+    "CountryCode": "NZ",
+    "PostCode": 1041,
+    "Suburb": "MT ROSKILL",
+    "Latitude": -36.89944,
+    "Longitude": 174.7398,
+    "Version": "0x00000000000AAA1F"
+  },
+  {
+    "Id": 3163,
+    "CountryCode": "NZ",
+    "PostCode": 1042,
+    "Suburb": "LYNFIELD",
+    "Latitude": -36.92706,
+    "Longitude": 174.7155,
+    "Version": "0x00000000000AAA20"
+  },
+  {
+    "Id": 3164,
+    "CountryCode": "NZ",
+    "PostCode": 1050,
+    "Suburb": "REMUERA",
+    "Latitude": -36.88711,
+    "Longitude": 174.8209,
+    "Version": "0x00000000000AAA21"
+  },
+  {
+    "Id": 3165,
+    "CountryCode": "NZ",
+    "PostCode": 1051,
+    "Suburb": "GREENLANE",
+    "Latitude": -36.89176,
+    "Longitude": 174.7982,
+    "Version": "0x00000000000AAA22"
+  },
+  {
+    "Id": 3166,
+    "CountryCode": "NZ",
+    "PostCode": 1052,
+    "Suburb": "PARNELL",
+    "Latitude": -36.85365,
+    "Longitude": 174.7788,
+    "Version": "0x00000000000AAA23"
+  },
+  {
+    "Id": 3167,
+    "CountryCode": "NZ",
+    "PostCode": 1060,
+    "Suburb": "MT WELLINGTON",
+    "Latitude": -36.93414,
+    "Longitude": 174.8318,
+    "Version": "0x00000000000AAA24"
+  },
+  {
+    "Id": 3168,
+    "CountryCode": "NZ",
+    "PostCode": 1061,
+    "Suburb": "ONEHUNGA",
+    "Latitude": -36.91093,
+    "Longitude": 174.7807,
+    "Version": "0x00000000000AAA25"
+  },
+  {
+    "Id": 3169,
+    "CountryCode": "NZ",
+    "PostCode": 1062,
+    "Suburb": "OTAHUHU",
+    "Latitude": -36.93904,
+    "Longitude": 174.8513,
+    "Version": "0x00000000000AAA26"
+  },
+  {
+    "Id": 3170,
+    "CountryCode": "NZ",
+    "PostCode": 1071,
+    "Suburb": "GLENDOWIE",
+    "Latitude": -36.84966,
+    "Longitude": 174.8732,
+    "Version": "0x00000000000AAA27"
+  },
+  {
+    "Id": 3171,
+    "CountryCode": "NZ",
+    "PostCode": 1072,
+    "Suburb": "ST JOHNS",
+    "Latitude": -36.87326,
+    "Longitude": 174.8462,
+    "Version": "0x00000000000AAA28"
+  },
+  {
+    "Id": 3172,
+    "CountryCode": "NZ",
+    "PostCode": 1081,
+    "Suburb": "WAIHEKE ISLAND",
+    "Latitude": -36.77593,
+    "Longitude": 174.9886,
+    "Version": "0x00000000000AAA29"
+  },
+  {
+    "Id": 3173,
+    "CountryCode": "NZ",
+    "PostCode": 2010,
+    "Suburb": "HIGHLAND PARK",
+    "Latitude": -36.9028,
+    "Longitude": 174.908,
+    "Version": "0x00000000000AAA2A"
+  },
+  {
+    "Id": 3174,
+    "CountryCode": "NZ",
+    "PostCode": 2012,
+    "Suburb": "HALF MOON BAY",
+    "Latitude": -36.88268,
+    "Longitude": 174.9025,
+    "Version": "0x00000000000AAA2B"
+  },
+  {
+    "Id": 3175,
+    "CountryCode": "NZ",
+    "PostCode": 2013,
+    "Suburb": "EAST TAMAKI",
+    "Latitude": -36.95371,
+    "Longitude": 174.9032,
+    "Version": "0x00000000000AAA2C"
+  },
+  {
+    "Id": 3176,
+    "CountryCode": "NZ",
+    "PostCode": 2014,
+    "Suburb": "HOWICK",
+    "Latitude": -36.89836,
+    "Longitude": 174.9321,
+    "Version": "0x00000000000AAA2D"
+  },
+  {
+    "Id": 3177,
+    "CountryCode": "NZ",
+    "PostCode": 2016,
+    "Suburb": "DANNEMORA",
+    "Latitude": -36.93993,
+    "Longitude": 174.9092,
+    "Version": "0x00000000000AAA2E"
+  },
+  {
+    "Id": 3178,
+    "CountryCode": "NZ",
+    "PostCode": 2018,
+    "Suburb": "MARAETAI",
+    "Latitude": -36.88055,
+    "Longitude": 175.0369,
+    "Version": "0x00000000000AAA2F"
+  },
+  {
+    "Id": 3179,
+    "CountryCode": "NZ",
+    "PostCode": 2022,
+    "Suburb": "MANGERE",
+    "Latitude": -36.97517,
+    "Longitude": 174.777,
+    "Version": "0x00000000000AAA30"
+  },
+  {
+    "Id": 3180,
+    "CountryCode": "NZ",
+    "PostCode": 2023,
+    "Suburb": "CLOVER PARK",
+    "Latitude": -36.97785,
+    "Longitude": 174.8909,
+    "Version": "0x00000000000AAA31"
+  },
+  {
+    "Id": 3181,
+    "CountryCode": "NZ",
+    "PostCode": 2024,
+    "Suburb": "FAVONA",
+    "Latitude": -36.95379,
+    "Longitude": 174.8167,
+    "Version": "0x00000000000AAA32"
+  },
+  {
+    "Id": 3182,
+    "CountryCode": "NZ",
+    "PostCode": 2025,
+    "Suburb": "PAPATOETOE",
+    "Latitude": -36.99055,
+    "Longitude": 174.8429,
+    "Version": "0x00000000000AAA33"
+  },
+  {
+    "Id": 3183,
+    "CountryCode": "NZ",
+    "PostCode": 2102,
+    "Suburb": "MANUREWA",
+    "Latitude": -37.02453,
+    "Longitude": 174.8776,
+    "Version": "0x00000000000AAA34"
+  },
+  {
+    "Id": 3184,
+    "CountryCode": "NZ",
+    "PostCode": 2103,
+    "Suburb": "WATTLE DOWNS",
+    "Latitude": -37.04763,
+    "Longitude": 174.8778,
+    "Version": "0x00000000000AAA35"
+  },
+  {
+    "Id": 3185,
+    "CountryCode": "NZ",
+    "PostCode": 2104,
+    "Suburb": "WIRI",
+    "Latitude": -37.00002,
+    "Longitude": 174.8488,
+    "Version": "0x00000000000AAA36"
+  },
+  {
+    "Id": 3186,
+    "CountryCode": "NZ",
+    "PostCode": 2105,
+    "Suburb": "WAIRERE",
+    "Latitude": -37.01536,
+    "Longitude": 174.9184,
+    "Version": "0x00000000000AAA37"
+  },
+  {
+    "Id": 3187,
+    "CountryCode": "NZ",
+    "PostCode": 2110,
+    "Suburb": "PAPAKURA",
+    "Latitude": -37.07121,
+    "Longitude": 174.9486,
+    "Version": "0x00000000000AAA38"
+  },
+  {
+    "Id": 3188,
+    "CountryCode": "NZ",
+    "PostCode": 2112,
+    "Suburb": "CONIFER GROVE",
+    "Latitude": -37.04943,
+    "Longitude": 174.9059,
+    "Version": "0x00000000000AAA39"
+  },
+  {
+    "Id": 3189,
+    "CountryCode": "NZ",
+    "PostCode": 2113,
+    "Suburb": "OPAHEKE",
+    "Latitude": -37.08262,
+    "Longitude": 174.9442,
+    "Version": "0x00000000000AAA3A"
+  },
+  {
+    "Id": 3190,
+    "CountryCode": "NZ",
+    "PostCode": 2120,
+    "Suburb": "PUKEKOHE",
+    "Latitude": -37.18531,
+    "Longitude": 174.9034,
+    "Version": "0x00000000000AAA3B"
+  },
+  {
+    "Id": 3191,
+    "CountryCode": "NZ",
+    "PostCode": 2121,
+    "Suburb": "TUAKAU",
+    "Latitude": -37.28213,
+    "Longitude": 174.949,
+    "Version": "0x00000000000AAA3C"
+  },
+  {
+    "Id": 3192,
+    "CountryCode": "NZ",
+    "PostCode": 2122,
+    "Suburb": "CLARKS BEACH",
+    "Latitude": -37.13721,
+    "Longitude": 174.696,
+    "Version": "0x00000000000AAA3D"
+  },
+  {
+    "Id": 3193,
+    "CountryCode": "NZ",
+    "PostCode": 2123,
+    "Suburb": "WAIUKU",
+    "Latitude": -37.2602,
+    "Longitude": 174.7344,
+    "Version": "0x00000000000AAA3E"
+  },
+  {
+    "Id": 3194,
+    "CountryCode": "NZ",
+    "PostCode": 3010,
+    "Suburb": "OWHATA",
+    "Latitude": -38.14188,
+    "Longitude": 176.2914,
+    "Version": "0x00000000000AAA3F"
+  },
+  {
+    "Id": 3195,
+    "CountryCode": "NZ",
+    "PostCode": 3015,
+    "Suburb": "MANGAKAKAHI",
+    "Latitude": -38.13482,
+    "Longitude": 176.2163,
+    "Version": "0x00000000000AAA40"
+  },
+  {
+    "Id": 3196,
+    "CountryCode": "NZ",
+    "PostCode": 3020,
+    "Suburb": "MAMAKU",
+    "Latitude": -38.10321,
+    "Longitude": 176.0693,
+    "Version": "0x00000000000AAA41"
+  },
+  {
+    "Id": 3197,
+    "CountryCode": "NZ",
+    "PostCode": 3025,
+    "Suburb": "MURUPARA",
+    "Latitude": -38.45472,
+    "Longitude": 176.7087,
+    "Version": "0x00000000000AAA42"
+  },
+  {
+    "Id": 3198,
+    "CountryCode": "NZ",
+    "PostCode": 3110,
+    "Suburb": "JUDEA",
+    "Latitude": -37.69454,
+    "Longitude": 176.128,
+    "Version": "0x00000000000AAA43"
+  },
+  {
+    "Id": 3199,
+    "CountryCode": "NZ",
+    "PostCode": 3112,
+    "Suburb": "WELCOME BAY",
+    "Latitude": -37.72784,
+    "Longitude": 176.1842,
+    "Version": "0x00000000000AAA44"
+  },
+  {
+    "Id": 3200,
+    "CountryCode": "NZ",
+    "PostCode": 3114,
+    "Suburb": "OMOKOROA",
+    "Latitude": -37.638,
+    "Longitude": 176.0447,
+    "Version": "0x00000000000AAA45"
+  },
+  {
+    "Id": 3201,
+    "CountryCode": "NZ",
+    "PostCode": 3116,
+    "Suburb": "MT MAUNGANUI",
+    "Latitude": -37.68192,
+    "Longitude": 176.2367,
+    "Version": "0x00000000000AAA46"
+  },
+  {
+    "Id": 3202,
+    "CountryCode": "NZ",
+    "PostCode": 3118,
+    "Suburb": "PAPAMOA BEACH",
+    "Latitude": -37.68844,
+    "Longitude": 176.2544,
+    "Version": "0x00000000000AAA47"
+  },
+  {
+    "Id": 3203,
+    "CountryCode": "NZ",
+    "PostCode": 3119,
+    "Suburb": "TE PUKE",
+    "Latitude": -37.79826,
+    "Longitude": 176.3161,
+    "Version": "0x00000000000AAA48"
+  },
+  {
+    "Id": 3204,
+    "CountryCode": "NZ",
+    "PostCode": 3120,
+    "Suburb": "WHAKATANE",
+    "Latitude": -37.9646,
+    "Longitude": 177.006,
+    "Version": "0x00000000000AAA49"
+  },
+  {
+    "Id": 3205,
+    "CountryCode": "NZ",
+    "PostCode": 3121,
+    "Suburb": "OHOPE",
+    "Latitude": -37.98156,
+    "Longitude": 177.1051,
+    "Version": "0x00000000000AAA4A"
+  },
+  {
+    "Id": 3206,
+    "CountryCode": "NZ",
+    "PostCode": 3122,
+    "Suburb": "OPOTIKI",
+    "Latitude": -37.99768,
+    "Longitude": 177.2871,
+    "Version": "0x00000000000AAA4B"
+  },
+  {
+    "Id": 3207,
+    "CountryCode": "NZ",
+    "PostCode": 3123,
+    "Suburb": "TANEATUA",
+    "Latitude": -38.06328,
+    "Longitude": 177.007,
+    "Version": "0x00000000000AAA4C"
+  },
+  {
+    "Id": 3208,
+    "CountryCode": "NZ",
+    "PostCode": 3127,
+    "Suburb": "KAWERAU",
+    "Latitude": -38.09227,
+    "Longitude": 176.7032,
+    "Version": "0x00000000000AAA4D"
+  },
+  {
+    "Id": 3209,
+    "CountryCode": "NZ",
+    "PostCode": 3129,
+    "Suburb": "KATIKATI",
+    "Latitude": -37.55547,
+    "Longitude": 175.9268,
+    "Version": "0x00000000000AAA4E"
+  },
+  {
+    "Id": 3210,
+    "CountryCode": "NZ",
+    "PostCode": 3200,
+    "Suburb": "WHITIORA",
+    "Latitude": -37.77768,
+    "Longitude": 175.2703,
+    "Version": "0x00000000000AAA4F"
+  },
+  {
+    "Id": 3211,
+    "CountryCode": "NZ",
+    "PostCode": 3204,
+    "Suburb": "DINSDALE",
+    "Latitude": -37.78931,
+    "Longitude": 175.2432,
+    "Version": "0x00000000000AAA50"
+  },
+  {
+    "Id": 3212,
+    "CountryCode": "NZ",
+    "PostCode": 3206,
+    "Suburb": "GLENVIEW",
+    "Latitude": -37.82939,
+    "Longitude": 175.2929,
+    "Version": "0x00000000000AAA51"
+  },
+  {
+    "Id": 3213,
+    "CountryCode": "NZ",
+    "PostCode": 3210,
+    "Suburb": "ROTOTUNA",
+    "Latitude": -37.73787,
+    "Longitude": 175.264,
+    "Version": "0x00000000000AAA52"
+  },
+  {
+    "Id": 3214,
+    "CountryCode": "NZ",
+    "PostCode": 3214,
+    "Suburb": "FAIRVIEW DOWNS",
+    "Latitude": -37.7621,
+    "Longitude": 175.3089,
+    "Version": "0x00000000000AAA53"
+  },
+  {
+    "Id": 3215,
+    "CountryCode": "NZ",
+    "PostCode": 3216,
+    "Suburb": "HAMILTON EAST",
+    "Latitude": -37.80058,
+    "Longitude": 175.2997,
+    "Version": "0x00000000000AAA54"
+  },
+  {
+    "Id": 3216,
+    "CountryCode": "NZ",
+    "PostCode": 3218,
+    "Suburb": "TEMPLE VIEW",
+    "Latitude": -37.82154,
+    "Longitude": 175.2258,
+    "Version": "0x00000000000AAA55"
+  },
+  {
+    "Id": 3217,
+    "CountryCode": "NZ",
+    "PostCode": 3225,
+    "Suburb": "RAGLAN",
+    "Latitude": -37.80106,
+    "Longitude": 174.87,
+    "Version": "0x00000000000AAA56"
+  },
+  {
+    "Id": 3218,
+    "CountryCode": "NZ",
+    "PostCode": 3300,
+    "Suburb": "MORRINSVILLE",
+    "Latitude": -37.65456,
+    "Longitude": 175.5258,
+    "Version": "0x00000000000AAA57"
+  },
+  {
+    "Id": 3219,
+    "CountryCode": "NZ",
+    "PostCode": 3310,
+    "Suburb": "WAITOA",
+    "Latitude": -37.60446,
+    "Longitude": 175.6307,
+    "Version": "0x00000000000AAA58"
+  },
+  {
+    "Id": 3220,
+    "CountryCode": "NZ",
+    "PostCode": 3320,
+    "Suburb": "TE AROHA",
+    "Latitude": -37.55038,
+    "Longitude": 175.697,
+    "Version": "0x00000000000AAA59"
+  },
+  {
+    "Id": 3221,
+    "CountryCode": "NZ",
+    "PostCode": 3330,
+    "Suburb": "TAUPO",
+    "Latitude": -38.67897,
+    "Longitude": 176.0936,
+    "Version": "0x00000000000AAA5A"
+  },
+  {
+    "Id": 3222,
+    "CountryCode": "NZ",
+    "PostCode": 3332,
+    "Suburb": "WAIRAKEI",
+    "Latitude": -38.61953,
+    "Longitude": 176.1065,
+    "Version": "0x00000000000AAA5B"
+  },
+  {
+    "Id": 3223,
+    "CountryCode": "NZ",
+    "PostCode": 3334,
+    "Suburb": "TURANGI",
+    "Latitude": -38.98479,
+    "Longitude": 175.8022,
+    "Version": "0x00000000000AAA5C"
+  },
+  {
+    "Id": 3224,
+    "CountryCode": "NZ",
+    "PostCode": 3400,
+    "Suburb": "MATAMATA",
+    "Latitude": -37.81398,
+    "Longitude": 175.7671,
+    "Version": "0x00000000000AAA5D"
+  },
+  {
+    "Id": 3225,
+    "CountryCode": "NZ",
+    "PostCode": 3401,
+    "Suburb": "TAMIHANA",
+    "Latitude": -37.76391,
+    "Longitude": 175.7575,
+    "Version": "0x00000000000AAA5E"
+  },
+  {
+    "Id": 3226,
+    "CountryCode": "NZ",
+    "PostCode": 3410,
+    "Suburb": "TIRAU",
+    "Latitude": -37.97789,
+    "Longitude": 175.7603,
+    "Version": "0x00000000000AAA5F"
+  },
+  {
+    "Id": 3227,
+    "CountryCode": "NZ",
+    "PostCode": 3411,
+    "Suburb": "PUTARURU",
+    "Latitude": -38.04979,
+    "Longitude": 175.7713,
+    "Version": "0x00000000000AAA60"
+  },
+  {
+    "Id": 3228,
+    "CountryCode": "NZ",
+    "PostCode": 3415,
+    "Suburb": "ARAPUNI",
+    "Latitude": -38.07062,
+    "Longitude": 175.6497,
+    "Version": "0x00000000000AAA61"
+  },
+  {
+    "Id": 3229,
+    "CountryCode": "NZ",
+    "PostCode": 3420,
+    "Suburb": "TOKOROA",
+    "Latitude": -38.22266,
+    "Longitude": 175.8702,
+    "Version": "0x00000000000AAA62"
+  },
+  {
+    "Id": 3230,
+    "CountryCode": "NZ",
+    "PostCode": 3421,
+    "Suburb": "MANGAKINO",
+    "Latitude": -38.37158,
+    "Longitude": 175.7732,
+    "Version": "0x00000000000AAA63"
+  },
+  {
+    "Id": 3231,
+    "CountryCode": "NZ",
+    "PostCode": 3432,
+    "Suburb": "LEAMINGTON",
+    "Latitude": -37.89743,
+    "Longitude": 175.4839,
+    "Version": "0x00000000000AAA64"
+  },
+  {
+    "Id": 3232,
+    "CountryCode": "NZ",
+    "PostCode": 3434,
+    "Suburb": "CAMBRIDGE",
+    "Latitude": -37.89519,
+    "Longitude": 175.4771,
+    "Version": "0x00000000000AAA65"
+  },
+  {
+    "Id": 3233,
+    "CountryCode": "NZ",
+    "PostCode": 3500,
+    "Suburb": "THAMES",
+    "Latitude": -37.15553,
+    "Longitude": 175.5624,
+    "Version": "0x00000000000AAA66"
+  },
+  {
+    "Id": 3234,
+    "CountryCode": "NZ",
+    "PostCode": 3503,
+    "Suburb": "NGATEA",
+    "Latitude": -37.2735,
+    "Longitude": 175.4929,
+    "Version": "0x00000000000AAA67"
+  },
+  {
+    "Id": 3235,
+    "CountryCode": "NZ",
+    "PostCode": 3506,
+    "Suburb": "COROMANDEL",
+    "Latitude": -36.75427,
+    "Longitude": 175.5044,
+    "Version": "0x00000000000AAA68"
+  },
+  {
+    "Id": 3236,
+    "CountryCode": "NZ",
+    "PostCode": 3508,
+    "Suburb": "TAIRUA",
+    "Latitude": -37.00554,
+    "Longitude": 175.8415,
+    "Version": "0x00000000000AAA69"
+  },
+  {
+    "Id": 3237,
+    "CountryCode": "NZ",
+    "PostCode": 3510,
+    "Suburb": "WHITIANGA",
+    "Latitude": -36.83883,
+    "Longitude": 175.6947,
+    "Version": "0x00000000000AAA6A"
+  },
+  {
+    "Id": 3238,
+    "CountryCode": "NZ",
+    "PostCode": 3600,
+    "Suburb": "PAEROA",
+    "Latitude": -37.37537,
+    "Longitude": 175.6818,
+    "Version": "0x00000000000AAA6B"
+  },
+  {
+    "Id": 3239,
+    "CountryCode": "NZ",
+    "PostCode": 3610,
+    "Suburb": "WAIHI",
+    "Latitude": -37.39711,
+    "Longitude": 175.8455,
+    "Version": "0x00000000000AAA6C"
+  },
+  {
+    "Id": 3240,
+    "CountryCode": "NZ",
+    "PostCode": 3611,
+    "Suburb": "ATHENREE",
+    "Latitude": -37.43567,
+    "Longitude": 175.9639,
+    "Version": "0x00000000000AAA6D"
+  },
+  {
+    "Id": 3241,
+    "CountryCode": "NZ",
+    "PostCode": 3620,
+    "Suburb": "WHANGAMATA",
+    "Latitude": -37.20918,
+    "Longitude": 175.8685,
+    "Version": "0x00000000000AAA6E"
+  },
+  {
+    "Id": 3242,
+    "CountryCode": "NZ",
+    "PostCode": 3700,
+    "Suburb": "HUNTLY",
+    "Latitude": -37.56176,
+    "Longitude": 175.1593,
+    "Version": "0x00000000000AAA6F"
+  },
+  {
+    "Id": 3243,
+    "CountryCode": "NZ",
+    "PostCode": 3710,
+    "Suburb": "TE KAUWHATA",
+    "Latitude": -37.40334,
+    "Longitude": 175.1474,
+    "Version": "0x00000000000AAA70"
+  },
+  {
+    "Id": 3244,
+    "CountryCode": "NZ",
+    "PostCode": 3720,
+    "Suburb": "NGARUAWAHIA",
+    "Latitude": -37.66413,
+    "Longitude": 175.1543,
+    "Version": "0x00000000000AAA71"
+  },
+  {
+    "Id": 3245,
+    "CountryCode": "NZ",
+    "PostCode": 3721,
+    "Suburb": "TAUPIRI",
+    "Latitude": -37.61806,
+    "Longitude": 175.1874,
+    "Version": "0x00000000000AAA72"
+  },
+  {
+    "Id": 3246,
+    "CountryCode": "NZ",
+    "PostCode": 3800,
+    "Suburb": "KIHIKIHI",
+    "Latitude": -38.04152,
+    "Longitude": 175.3418,
+    "Version": "0x00000000000AAA73"
+  },
+  {
+    "Id": 3247,
+    "CountryCode": "NZ",
+    "PostCode": 3802,
+    "Suburb": "PIRONGIA",
+    "Latitude": -37.99021,
+    "Longitude": 175.198,
+    "Version": "0x00000000000AAA74"
+  },
+  {
+    "Id": 3248,
+    "CountryCode": "NZ",
+    "PostCode": 3803,
+    "Suburb": "OHAUPO",
+    "Latitude": -37.92082,
+    "Longitude": 175.3063,
+    "Version": "0x00000000000AAA75"
+  },
+  {
+    "Id": 3249,
+    "CountryCode": "NZ",
+    "PostCode": 3900,
+    "Suburb": "OTOROHANGA",
+    "Latitude": -38.17937,
+    "Longitude": 175.2124,
+    "Version": "0x00000000000AAA76"
+  },
+  {
+    "Id": 3250,
+    "CountryCode": "NZ",
+    "PostCode": 3910,
+    "Suburb": "TE KUITI",
+    "Latitude": -38.34233,
+    "Longitude": 175.1816,
+    "Version": "0x00000000000AAA77"
+  },
+  {
+    "Id": 3251,
+    "CountryCode": "NZ",
+    "PostCode": 3912,
+    "Suburb": "PIOPIO",
+    "Latitude": -38.51405,
+    "Longitude": 175.0085,
+    "Version": "0x00000000000AAA78"
+  },
+  {
+    "Id": 3252,
+    "CountryCode": "NZ",
+    "PostCode": 3920,
+    "Suburb": "TAUMARUNUI",
+    "Latitude": -38.88163,
+    "Longitude": 175.2703,
+    "Version": "0x00000000000AAA79"
+  },
+  {
+    "Id": 3253,
+    "CountryCode": "NZ",
+    "PostCode": 3924,
+    "Suburb": "MANUNUI",
+    "Latitude": -38.88841,
+    "Longitude": 175.3334,
+    "Version": "0x00000000000AAA7A"
+  },
+  {
+    "Id": 3254,
+    "CountryCode": "NZ",
+    "PostCode": 3926,
+    "Suburb": "OHURA",
+    "Latitude": -38.84403,
+    "Longitude": 174.9811,
+    "Version": "0x00000000000AAA7B"
+  },
+  {
+    "Id": 3255,
+    "CountryCode": "NZ",
+    "PostCode": 4010,
+    "Suburb": "TE HAPARA",
+    "Latitude": -38.65565,
+    "Longitude": 178.0034,
+    "Version": "0x00000000000AAA7C"
+  },
+  {
+    "Id": 3256,
+    "CountryCode": "NZ",
+    "PostCode": 4022,
+    "Suburb": "TE KARAKA",
+    "Latitude": -38.46612,
+    "Longitude": 177.8661,
+    "Version": "0x00000000000AAA7D"
+  },
+  {
+    "Id": 3257,
+    "CountryCode": "NZ",
+    "PostCode": 4032,
+    "Suburb": "RUATORIA",
+    "Latitude": -37.89473,
+    "Longitude": 178.3171,
+    "Version": "0x00000000000AAA7E"
+  },
+  {
+    "Id": 3258,
+    "CountryCode": "NZ",
+    "PostCode": 4102,
+    "Suburb": "CLIVE",
+    "Latitude": -39.58997,
+    "Longitude": 176.9372,
+    "Version": "0x00000000000AAA7F"
+  },
+  {
+    "Id": 3259,
+    "CountryCode": "NZ",
+    "PostCode": 4104,
+    "Suburb": "BAY VIEW",
+    "Latitude": -39.40781,
+    "Longitude": 176.8796,
+    "Version": "0x00000000000AAA80"
+  },
+  {
+    "Id": 3260,
+    "CountryCode": "NZ",
+    "PostCode": 4108,
+    "Suburb": "WAIROA",
+    "Latitude": -39.03828,
+    "Longitude": 177.409,
+    "Version": "0x00000000000AAA81"
+  },
+  {
+    "Id": 3261,
+    "CountryCode": "NZ",
+    "PostCode": 4110,
+    "Suburb": "ONEKAWA",
+    "Latitude": -39.51318,
+    "Longitude": 176.8878,
+    "Version": "0x00000000000AAA82"
+  },
+  {
+    "Id": 3262,
+    "CountryCode": "NZ",
+    "PostCode": 4112,
+    "Suburb": "TARADALE",
+    "Latitude": -39.54358,
+    "Longitude": 176.8533,
+    "Version": "0x00000000000AAA83"
+  },
+  {
+    "Id": 3263,
+    "CountryCode": "NZ",
+    "PostCode": 4120,
+    "Suburb": "ST LEONARDS",
+    "Latitude": -39.63154,
+    "Longitude": 176.8343,
+    "Version": "0x00000000000AAA84"
+  },
+  {
+    "Id": 3264,
+    "CountryCode": "NZ",
+    "PostCode": 4122,
+    "Suburb": "PARKVALE",
+    "Latitude": -39.65194,
+    "Longitude": 176.8675,
+    "Version": "0x00000000000AAA85"
+  },
+  {
+    "Id": 3265,
+    "CountryCode": "NZ",
+    "PostCode": 4130,
+    "Suburb": "HAVELOCK NORTH",
+    "Latitude": -39.69638,
+    "Longitude": 176.877,
+    "Version": "0x00000000000AAA86"
+  },
+  {
+    "Id": 3266,
+    "CountryCode": "NZ",
+    "PostCode": 4200,
+    "Suburb": "WAIPUKURAU",
+    "Latitude": -39.99168,
+    "Longitude": 176.5481,
+    "Version": "0x00000000000AAA87"
+  },
+  {
+    "Id": 3267,
+    "CountryCode": "NZ",
+    "PostCode": 4202,
+    "Suburb": "OTANE",
+    "Latitude": -39.89879,
+    "Longitude": 176.6277,
+    "Version": "0x00000000000AAA88"
+  },
+  {
+    "Id": 3268,
+    "CountryCode": "NZ",
+    "PostCode": 4203,
+    "Suburb": "TAKAPAU",
+    "Latitude": -39.96942,
+    "Longitude": 176.3867,
+    "Version": "0x00000000000AAA89"
+  },
+  {
+    "Id": 3269,
+    "CountryCode": "NZ",
+    "PostCode": 4210,
+    "Suburb": "WAIPAWA",
+    "Latitude": -39.93755,
+    "Longitude": 176.5867,
+    "Version": "0x00000000000AAA8A"
+  },
+  {
+    "Id": 3270,
+    "CountryCode": "NZ",
+    "PostCode": 4310,
+    "Suburb": "MARFELL",
+    "Latitude": -39.07423,
+    "Longitude": 174.0497,
+    "Version": "0x00000000000AAA8B"
+  },
+  {
+    "Id": 3271,
+    "CountryCode": "NZ",
+    "PostCode": 4312,
+    "Suburb": "BELL BLOCK",
+    "Latitude": -39.0301,
+    "Longitude": 174.1467,
+    "Version": "0x00000000000AAA8C"
+  },
+  {
+    "Id": 3272,
+    "CountryCode": "NZ",
+    "PostCode": 4314,
+    "Suburb": "OAKURA",
+    "Latitude": -39.11756,
+    "Longitude": 173.9475,
+    "Version": "0x00000000000AAA8D"
+  },
+  {
+    "Id": 3273,
+    "CountryCode": "NZ",
+    "PostCode": 4320,
+    "Suburb": "WAITARA",
+    "Latitude": -38.99068,
+    "Longitude": 174.2416,
+    "Version": "0x00000000000AAA8E"
+  },
+  {
+    "Id": 3274,
+    "CountryCode": "NZ",
+    "PostCode": 4322,
+    "Suburb": "ELTHAM",
+    "Latitude": -39.42841,
+    "Longitude": 174.3006,
+    "Version": "0x00000000000AAA8F"
+  },
+  {
+    "Id": 3275,
+    "CountryCode": "NZ",
+    "PostCode": 4330,
+    "Suburb": "INGLEWOOD",
+    "Latitude": -39.15978,
+    "Longitude": 174.2045,
+    "Version": "0x00000000000AAA90"
+  },
+  {
+    "Id": 3276,
+    "CountryCode": "NZ",
+    "PostCode": 4332,
+    "Suburb": "STRATFORD",
+    "Latitude": -39.34777,
+    "Longitude": 174.2808,
+    "Version": "0x00000000000AAA91"
+  },
+  {
+    "Id": 3277,
+    "CountryCode": "NZ",
+    "PostCode": 4335,
+    "Suburb": "OKATO",
+    "Latitude": -39.19043,
+    "Longitude": 173.8791,
+    "Version": "0x00000000000AAA92"
+  },
+  {
+    "Id": 3278,
+    "CountryCode": "NZ",
+    "PostCode": 4410,
+    "Suburb": "FITZHERBERT",
+    "Latitude": -40.39161,
+    "Longitude": 175.6456,
+    "Version": "0x00000000000AAA93"
+  },
+  {
+    "Id": 3279,
+    "CountryCode": "NZ",
+    "PostCode": 4412,
+    "Suburb": "TAKARO",
+    "Latitude": -40.35016,
+    "Longitude": 175.5949,
+    "Version": "0x00000000000AAA94"
+  },
+  {
+    "Id": 3280,
+    "CountryCode": "NZ",
+    "PostCode": 4414,
+    "Suburb": "MILSON",
+    "Latitude": -40.32968,
+    "Longitude": 175.6101,
+    "Version": "0x00000000000AAA95"
+  },
+  {
+    "Id": 3281,
+    "CountryCode": "NZ",
+    "PostCode": 4500,
+    "Suburb": "ST JOHNS HILL",
+    "Latitude": -39.91576,
+    "Longitude": 175.0392,
+    "Version": "0x00000000000AAA96"
+  },
+  {
+    "Id": 3282,
+    "CountryCode": "NZ",
+    "PostCode": 4501,
+    "Suburb": "GONVILLE",
+    "Latitude": -39.94468,
+    "Longitude": 175.0235,
+    "Version": "0x00000000000AAA97"
+  },
+  {
+    "Id": 3283,
+    "CountryCode": "NZ",
+    "PostCode": 4510,
+    "Suburb": "WAVERLEY",
+    "Latitude": -39.76081,
+    "Longitude": 174.6325,
+    "Version": "0x00000000000AAA98"
+  },
+  {
+    "Id": 3284,
+    "CountryCode": "NZ",
+    "PostCode": 4520,
+    "Suburb": "PATEA",
+    "Latitude": -39.75353,
+    "Longitude": 174.4687,
+    "Version": "0x00000000000AAA99"
+  },
+  {
+    "Id": 3285,
+    "CountryCode": "NZ",
+    "PostCode": 4610,
+    "Suburb": "HAWERA",
+    "Latitude": -39.59812,
+    "Longitude": 174.2833,
+    "Version": "0x00000000000AAA9A"
+  },
+  {
+    "Id": 3286,
+    "CountryCode": "NZ",
+    "PostCode": 4612,
+    "Suburb": "MANAIA",
+    "Latitude": -39.54747,
+    "Longitude": 174.1334,
+    "Version": "0x00000000000AAA9B"
+  },
+  {
+    "Id": 3287,
+    "CountryCode": "NZ",
+    "PostCode": 4614,
+    "Suburb": "NORMANBY",
+    "Latitude": -39.54244,
+    "Longitude": 174.2709,
+    "Version": "0x00000000000AAA9C"
+  },
+  {
+    "Id": 3288,
+    "CountryCode": "NZ",
+    "PostCode": 4616,
+    "Suburb": "OPUNAKE",
+    "Latitude": -39.45238,
+    "Longitude": 173.857,
+    "Version": "0x00000000000AAA9D"
+  },
+  {
+    "Id": 3289,
+    "CountryCode": "NZ",
+    "PostCode": 4625,
+    "Suburb": "OHAKUNE",
+    "Latitude": -39.41509,
+    "Longitude": 175.4052,
+    "Version": "0x00000000000AAA9E"
+  },
+  {
+    "Id": 3290,
+    "CountryCode": "NZ",
+    "PostCode": 4632,
+    "Suburb": "RAETIHI",
+    "Latitude": -39.43615,
+    "Longitude": 175.2787,
+    "Version": "0x00000000000AAA9F"
+  },
+  {
+    "Id": 3291,
+    "CountryCode": "NZ",
+    "PostCode": 4702,
+    "Suburb": "FEILDING",
+    "Latitude": -40.21039,
+    "Longitude": 175.5619,
+    "Version": "0x00000000000AAAA0"
+  },
+  {
+    "Id": 3292,
+    "CountryCode": "NZ",
+    "PostCode": 4710,
+    "Suburb": "MARTON",
+    "Latitude": -40.07711,
+    "Longitude": 175.3815,
+    "Version": "0x00000000000AAAA1"
+  },
+  {
+    "Id": 3293,
+    "CountryCode": "NZ",
+    "PostCode": 4720,
+    "Suburb": "TAIHAPE",
+    "Latitude": -39.68053,
+    "Longitude": 175.799,
+    "Version": "0x00000000000AAAA2"
+  },
+  {
+    "Id": 3294,
+    "CountryCode": "NZ",
+    "PostCode": 4730,
+    "Suburb": "HUNTERVILLE",
+    "Latitude": -39.93546,
+    "Longitude": 175.5664,
+    "Version": "0x00000000000AAAA3"
+  },
+  {
+    "Id": 3295,
+    "CountryCode": "NZ",
+    "PostCode": 4810,
+    "Suburb": "ASHHURST",
+    "Latitude": -40.28923,
+    "Longitude": 175.7581,
+    "Version": "0x00000000000AAAA4"
+  },
+  {
+    "Id": 3296,
+    "CountryCode": "NZ",
+    "PostCode": 4814,
+    "Suburb": "FOXTON",
+    "Latitude": -40.47576,
+    "Longitude": 175.2979,
+    "Version": "0x00000000000AAAA5"
+  },
+  {
+    "Id": 3297,
+    "CountryCode": "NZ",
+    "PostCode": 4815,
+    "Suburb": "FOXTON BEACH",
+    "Latitude": -40.46954,
+    "Longitude": 175.2371,
+    "Version": "0x00000000000AAAA6"
+  },
+  {
+    "Id": 3298,
+    "CountryCode": "NZ",
+    "PostCode": 4816,
+    "Suburb": "OHAKEA",
+    "Latitude": -40.19651,
+    "Longitude": 175.3785,
+    "Version": "0x00000000000AAAA7"
+  },
+  {
+    "Id": 3299,
+    "CountryCode": "NZ",
+    "PostCode": 4817,
+    "Suburb": "SANSON",
+    "Latitude": -40.22144,
+    "Longitude": 175.4278,
+    "Version": "0x00000000000AAAA8"
+  },
+  {
+    "Id": 3300,
+    "CountryCode": "NZ",
+    "PostCode": 4818,
+    "Suburb": "BULLS",
+    "Latitude": -40.17522,
+    "Longitude": 175.3792,
+    "Version": "0x00000000000AAAA9"
+  },
+  {
+    "Id": 3301,
+    "CountryCode": "NZ",
+    "PostCode": 4820,
+    "Suburb": "LINTON MILITARY CAMP",
+    "Latitude": -40.40478,
+    "Longitude": 175.5848,
+    "Version": "0x00000000000AAAAA"
+  },
+  {
+    "Id": 3302,
+    "CountryCode": "NZ",
+    "PostCode": 4821,
+    "Suburb": "SHANNON",
+    "Latitude": -40.55302,
+    "Longitude": 175.4097,
+    "Version": "0x00000000000AAAAB"
+  },
+  {
+    "Id": 3303,
+    "CountryCode": "NZ",
+    "PostCode": 4822,
+    "Suburb": "TANGIMOANA",
+    "Latitude": -40.2923,
+    "Longitude": 175.2454,
+    "Version": "0x00000000000AAAAC"
+  },
+  {
+    "Id": 3304,
+    "CountryCode": "NZ",
+    "PostCode": 4825,
+    "Suburb": "WAIOURU",
+    "Latitude": -39.4781,
+    "Longitude": 175.6658,
+    "Version": "0x00000000000AAAAD"
+  },
+  {
+    "Id": 3305,
+    "CountryCode": "NZ",
+    "PostCode": 4826,
+    "Suburb": "WAIOURU",
+    "Latitude": -39.47219,
+    "Longitude": 175.6841,
+    "Version": "0x00000000000AAAAE"
+  },
+  {
+    "Id": 3306,
+    "CountryCode": "NZ",
+    "PostCode": 4900,
+    "Suburb": "EKETAHUNA",
+    "Latitude": -40.64804,
+    "Longitude": 175.7084,
+    "Version": "0x00000000000AAAAF"
+  },
+  {
+    "Id": 3307,
+    "CountryCode": "NZ",
+    "PostCode": 4910,
+    "Suburb": "PAHIATUA",
+    "Latitude": -40.45117,
+    "Longitude": 175.8388,
+    "Version": "0x00000000000AAAB0"
+  },
+  {
+    "Id": 3308,
+    "CountryCode": "NZ",
+    "PostCode": 4920,
+    "Suburb": "WOODVILLE",
+    "Latitude": -40.33244,
+    "Longitude": 175.8557,
+    "Version": "0x00000000000AAAB1"
+  },
+  {
+    "Id": 3309,
+    "CountryCode": "NZ",
+    "PostCode": 4930,
+    "Suburb": "DANNEVIRKE",
+    "Latitude": -40.19785,
+    "Longitude": 176.0917,
+    "Version": "0x00000000000AAAB2"
+  },
+  {
+    "Id": 3310,
+    "CountryCode": "NZ",
+    "PostCode": 5010,
+    "Suburb": "MAUNGARAKI",
+    "Latitude": -41.20522,
+    "Longitude": 174.8758,
+    "Version": "0x00000000000AAAB3"
+  },
+  {
+    "Id": 3311,
+    "CountryCode": "NZ",
+    "PostCode": 5011,
+    "Suburb": "EPUNI",
+    "Latitude": -41.19938,
+    "Longitude": 174.9383,
+    "Version": "0x00000000000AAAB4"
+  },
+  {
+    "Id": 3312,
+    "CountryCode": "NZ",
+    "PostCode": 5012,
+    "Suburb": "PETONE",
+    "Latitude": -41.22899,
+    "Longitude": 174.8862,
+    "Version": "0x00000000000AAAB5"
+  },
+  {
+    "Id": 3313,
+    "CountryCode": "NZ",
+    "PostCode": 5013,
+    "Suburb": "LOWRY BAY",
+    "Latitude": -41.25575,
+    "Longitude": 174.9137,
+    "Version": "0x00000000000AAAB6"
+  },
+  {
+    "Id": 3314,
+    "CountryCode": "NZ",
+    "PostCode": 5014,
+    "Suburb": "WAINUIOMATA",
+    "Latitude": -41.24834,
+    "Longitude": 174.9559,
+    "Version": "0x00000000000AAAB7"
+  },
+  {
+    "Id": 3315,
+    "CountryCode": "NZ",
+    "PostCode": 5016,
+    "Suburb": "HOROKIWI",
+    "Latitude": -41.20129,
+    "Longitude": 174.8455,
+    "Version": "0x00000000000AAAB8"
+  },
+  {
+    "Id": 3316,
+    "CountryCode": "NZ",
+    "PostCode": 5018,
+    "Suburb": "UPPER HUTT CENTRAL",
+    "Latitude": -41.12445,
+    "Longitude": 175.0658,
+    "Version": "0x00000000000AAAB9"
+  },
+  {
+    "Id": 3317,
+    "CountryCode": "NZ",
+    "PostCode": 5019,
+    "Suburb": "STOKES VALLEY",
+    "Latitude": -41.18034,
+    "Longitude": 174.986,
+    "Version": "0x00000000000AAABA"
+  },
+  {
+    "Id": 3318,
+    "CountryCode": "NZ",
+    "PostCode": 5022,
+    "Suburb": "PORIRUA",
+    "Latitude": -41.13836,
+    "Longitude": 174.8413,
+    "Version": "0x00000000000AAABB"
+  },
+  {
+    "Id": 3319,
+    "CountryCode": "NZ",
+    "PostCode": 5024,
+    "Suburb": "WAITANGIRUA",
+    "Latitude": -41.11713,
+    "Longitude": 174.88,
+    "Version": "0x00000000000AAABC"
+  },
+  {
+    "Id": 3320,
+    "CountryCode": "NZ",
+    "PostCode": 5026,
+    "Suburb": "MANA",
+    "Latitude": -41.09236,
+    "Longitude": 174.8705,
+    "Version": "0x00000000000AAABD"
+  },
+  {
+    "Id": 3321,
+    "CountryCode": "NZ",
+    "PostCode": 5028,
+    "Suburb": "TAWA",
+    "Latitude": -41.17779,
+    "Longitude": 174.8161,
+    "Version": "0x00000000000AAABE"
+  },
+  {
+    "Id": 3322,
+    "CountryCode": "NZ",
+    "PostCode": 5032,
+    "Suburb": "PARAPARAUMU BEACH",
+    "Latitude": -40.88345,
+    "Longitude": 174.9903,
+    "Version": "0x00000000000AAABF"
+  },
+  {
+    "Id": 3323,
+    "CountryCode": "NZ",
+    "PostCode": 5034,
+    "Suburb": "PAEKAKARIKI",
+    "Latitude": -40.99128,
+    "Longitude": 174.9476,
+    "Version": "0x00000000000AAAC0"
+  },
+  {
+    "Id": 3324,
+    "CountryCode": "NZ",
+    "PostCode": 5036,
+    "Suburb": "WAIKANAE BEACH",
+    "Latitude": -40.85334,
+    "Longitude": 175.0364,
+    "Version": "0x00000000000AAAC1"
+  },
+  {
+    "Id": 3325,
+    "CountryCode": "NZ",
+    "PostCode": 5510,
+    "Suburb": "WAITARERE BEACH",
+    "Latitude": -40.55237,
+    "Longitude": 175.2032,
+    "Version": "0x00000000000AAAC2"
+  },
+  {
+    "Id": 3326,
+    "CountryCode": "NZ",
+    "PostCode": 5512,
+    "Suburb": "OTAKI",
+    "Latitude": -40.75523,
+    "Longitude": 175.1449,
+    "Version": "0x00000000000AAAC3"
+  },
+  {
+    "Id": 3327,
+    "CountryCode": "NZ",
+    "PostCode": 5710,
+    "Suburb": "FEATHERSTON",
+    "Latitude": -41.11451,
+    "Longitude": 175.3271,
+    "Version": "0x00000000000AAAC4"
+  },
+  {
+    "Id": 3328,
+    "CountryCode": "NZ",
+    "PostCode": 5711,
+    "Suburb": "MARTINBOROUGH",
+    "Latitude": -41.21659,
+    "Longitude": 175.4576,
+    "Version": "0x00000000000AAAC5"
+  },
+  {
+    "Id": 3329,
+    "CountryCode": "NZ",
+    "PostCode": 5712,
+    "Suburb": "GREYTOWN",
+    "Latitude": -41.08525,
+    "Longitude": 175.4496,
+    "Version": "0x00000000000AAAC6"
+  },
+  {
+    "Id": 3330,
+    "CountryCode": "NZ",
+    "PostCode": 5713,
+    "Suburb": "CLAREVILLE",
+    "Latitude": -41.00705,
+    "Longitude": 175.5315,
+    "Version": "0x00000000000AAAC7"
+  },
+  {
+    "Id": 3331,
+    "CountryCode": "NZ",
+    "PostCode": 5810,
+    "Suburb": "MASTERTON",
+    "Latitude": -40.93381,
+    "Longitude": 175.6477,
+    "Version": "0x00000000000AAAC8"
+  },
+  {
+    "Id": 3332,
+    "CountryCode": "NZ",
+    "PostCode": 6011,
+    "Suburb": "ARO VALLEY",
+    "Latitude": -41.2956,
+    "Longitude": 174.7721,
+    "Version": "0x00000000000AAAC9"
+  },
+  {
+    "Id": 3333,
+    "CountryCode": "NZ",
+    "PostCode": 6012,
+    "Suburb": "KARORI",
+    "Latitude": -41.28009,
+    "Longitude": 174.7315,
+    "Version": "0x00000000000AAACA"
+  },
+  {
+    "Id": 3334,
+    "CountryCode": "NZ",
+    "PostCode": 6021,
+    "Suburb": "ARO VALLEY",
+    "Latitude": -41.29338,
+    "Longitude": 174.7643,
+    "Version": "0x00000000000AAACB"
+  },
+  {
+    "Id": 3335,
+    "CountryCode": "NZ",
+    "PostCode": 6022,
+    "Suburb": "MAUPUIA",
+    "Latitude": -41.29744,
+    "Longitude": 174.8262,
+    "Version": "0x00000000000AAACC"
+  },
+  {
+    "Id": 3336,
+    "CountryCode": "NZ",
+    "PostCode": 6023,
+    "Suburb": "BERHAMPORE",
+    "Latitude": -41.31447,
+    "Longitude": 174.7757,
+    "Version": "0x00000000000AAACD"
+  },
+  {
+    "Id": 3337,
+    "CountryCode": "NZ",
+    "PostCode": 6035,
+    "Suburb": "NGAIO",
+    "Latitude": -41.25049,
+    "Longitude": 174.775,
+    "Version": "0x00000000000AAACE"
+  },
+  {
+    "Id": 3338,
+    "CountryCode": "NZ",
+    "PostCode": 6037,
+    "Suburb": "CHURTON PARK",
+    "Latitude": -41.21003,
+    "Longitude": 174.8045,
+    "Version": "0x00000000000AAACF"
+  },
+  {
+    "Id": 3339,
+    "CountryCode": "NZ",
+    "PostCode": 7005,
+    "Suburb": "RUBY BAY",
+    "Latitude": -41.22186,
+    "Longitude": 173.0793,
+    "Version": "0x00000000000AAAD0"
+  },
+  {
+    "Id": 3340,
+    "CountryCode": "NZ",
+    "PostCode": 7007,
+    "Suburb": "MURCHISON",
+    "Latitude": -41.8009,
+    "Longitude": 172.3279,
+    "Version": "0x00000000000AAAD1"
+  },
+  {
+    "Id": 3341,
+    "CountryCode": "NZ",
+    "PostCode": 7010,
+    "Suburb": "WASHINGTON VALLEY",
+    "Latitude": -41.27673,
+    "Longitude": 173.2662,
+    "Version": "0x00000000000AAAD2"
+  },
+  {
+    "Id": 3342,
+    "CountryCode": "NZ",
+    "PostCode": 7011,
+    "Suburb": "STOKE",
+    "Latitude": -41.31045,
+    "Longitude": 173.2241,
+    "Version": "0x00000000000AAAD3"
+  },
+  {
+    "Id": 3343,
+    "CountryCode": "NZ",
+    "PostCode": 7020,
+    "Suburb": "RICHMOND",
+    "Latitude": -41.33479,
+    "Longitude": 173.195,
+    "Version": "0x00000000000AAAD4"
+  },
+  {
+    "Id": 3344,
+    "CountryCode": "NZ",
+    "PostCode": 7022,
+    "Suburb": "BRIGHTWATER",
+    "Latitude": -41.37724,
+    "Longitude": 173.1087,
+    "Version": "0x00000000000AAAD5"
+  },
+  {
+    "Id": 3345,
+    "CountryCode": "NZ",
+    "PostCode": 7025,
+    "Suburb": "WAKEFIELD",
+    "Latitude": -41.40234,
+    "Longitude": 173.0468,
+    "Version": "0x00000000000AAAD6"
+  },
+  {
+    "Id": 3346,
+    "CountryCode": "NZ",
+    "PostCode": 7100,
+    "Suburb": "HAVELOCK",
+    "Latitude": -41.28574,
+    "Longitude": 173.7668,
+    "Version": "0x00000000000AAAD7"
+  },
+  {
+    "Id": 3347,
+    "CountryCode": "NZ",
+    "PostCode": 7110,
+    "Suburb": "TAKAKA",
+    "Latitude": -40.83382,
+    "Longitude": 172.8822,
+    "Version": "0x00000000000AAAD8"
+  },
+  {
+    "Id": 3348,
+    "CountryCode": "NZ",
+    "PostCode": 7120,
+    "Suburb": "MOTUEKA",
+    "Latitude": -41.10895,
+    "Longitude": 173.022,
+    "Version": "0x00000000000AAAD9"
+  },
+  {
+    "Id": 3349,
+    "CountryCode": "NZ",
+    "PostCode": 7201,
+    "Suburb": "SPRINGLANDS",
+    "Latitude": -41.50478,
+    "Longitude": 173.93,
+    "Version": "0x00000000000AAADA"
+  },
+  {
+    "Id": 3350,
+    "CountryCode": "NZ",
+    "PostCode": 7202,
+    "Suburb": "GROVETOWN",
+    "Latitude": -41.4905,
+    "Longitude": 173.9693,
+    "Version": "0x00000000000AAADB"
+  },
+  {
+    "Id": 3351,
+    "CountryCode": "NZ",
+    "PostCode": 7204,
+    "Suburb": "RENWICK",
+    "Latitude": -41.51313,
+    "Longitude": 173.8283,
+    "Version": "0x00000000000AAADC"
+  },
+  {
+    "Id": 3352,
+    "CountryCode": "NZ",
+    "PostCode": 7206,
+    "Suburb": "WOODBOURNE",
+    "Latitude": -41.51092,
+    "Longitude": 173.86,
+    "Version": "0x00000000000AAADD"
+  },
+  {
+    "Id": 3353,
+    "CountryCode": "NZ",
+    "PostCode": 7210,
+    "Suburb": "SEDDON",
+    "Latitude": -41.66981,
+    "Longitude": 174.0693,
+    "Version": "0x00000000000AAADE"
+  },
+  {
+    "Id": 3354,
+    "CountryCode": "NZ",
+    "PostCode": 7220,
+    "Suburb": "WAIKAWA",
+    "Latitude": -41.27666,
+    "Longitude": 174.0266,
+    "Version": "0x00000000000AAADF"
+  },
+  {
+    "Id": 3355,
+    "CountryCode": "NZ",
+    "PostCode": 7300,
+    "Suburb": "KAIKOURA",
+    "Latitude": -42.40172,
+    "Longitude": 173.6805,
+    "Version": "0x00000000000AAAE0"
+  },
+  {
+    "Id": 3356,
+    "CountryCode": "NZ",
+    "PostCode": 7310,
+    "Suburb": "CHEVIOT",
+    "Latitude": -42.81313,
+    "Longitude": 173.2664,
+    "Version": "0x00000000000AAAE1"
+  },
+  {
+    "Id": 3357,
+    "CountryCode": "NZ",
+    "PostCode": 7332,
+    "Suburb": "WAIAU",
+    "Latitude": -42.65722,
+    "Longitude": 173.0415,
+    "Version": "0x00000000000AAAE2"
+  },
+  {
+    "Id": 3358,
+    "CountryCode": "NZ",
+    "PostCode": 7334,
+    "Suburb": "HANMER SPRINGS",
+    "Latitude": -42.51408,
+    "Longitude": 172.832,
+    "Version": "0x00000000000AAAE3"
+  },
+  {
+    "Id": 3359,
+    "CountryCode": "NZ",
+    "PostCode": 7400,
+    "Suburb": "FERNSIDE",
+    "Latitude": -43.29432,
+    "Longitude": 172.5738,
+    "Version": "0x00000000000AAAE4"
+  },
+  {
+    "Id": 3360,
+    "CountryCode": "NZ",
+    "PostCode": 7402,
+    "Suburb": "WAIKUKU BEACH",
+    "Latitude": -43.28619,
+    "Longitude": 172.7055,
+    "Version": "0x00000000000AAAE5"
+  },
+  {
+    "Id": 3361,
+    "CountryCode": "NZ",
+    "PostCode": 7410,
+    "Suburb": "AMBERLEY",
+    "Latitude": -43.16327,
+    "Longitude": 172.7539,
+    "Version": "0x00000000000AAAE6"
+  },
+  {
+    "Id": 3362,
+    "CountryCode": "NZ",
+    "PostCode": 7420,
+    "Suburb": "WAIKARI",
+    "Latitude": -42.96731,
+    "Longitude": 172.6807,
+    "Version": "0x00000000000AAAE7"
+  },
+  {
+    "Id": 3363,
+    "CountryCode": "NZ",
+    "PostCode": 7430,
+    "Suburb": "OXFORD",
+    "Latitude": -43.23021,
+    "Longitude": 172.2495,
+    "Version": "0x00000000000AAAE8"
+  },
+  {
+    "Id": 3364,
+    "CountryCode": "NZ",
+    "PostCode": 7500,
+    "Suburb": "SHEFFIELD",
+    "Latitude": -43.39716,
+    "Longitude": 172.0324,
+    "Version": "0x00000000000AAAE9"
+  },
+  {
+    "Id": 3365,
+    "CountryCode": "NZ",
+    "PostCode": 7510,
+    "Suburb": "DARFIELD",
+    "Latitude": -43.4911,
+    "Longitude": 172.1034,
+    "Version": "0x00000000000AAAEA"
+  },
+  {
+    "Id": 3366,
+    "CountryCode": "NZ",
+    "PostCode": 7520,
+    "Suburb": "AKAROA",
+    "Latitude": -43.8144,
+    "Longitude": 172.9588,
+    "Version": "0x00000000000AAAEB"
+  },
+  {
+    "Id": 3367,
+    "CountryCode": "NZ",
+    "PostCode": 7600,
+    "Suburb": "BURNHAM",
+    "Latitude": -43.61702,
+    "Longitude": 172.3012,
+    "Version": "0x00000000000AAAEC"
+  },
+  {
+    "Id": 3368,
+    "CountryCode": "NZ",
+    "PostCode": 7602,
+    "Suburb": "SOUTHBRIDGE",
+    "Latitude": -43.80193,
+    "Longitude": 172.2355,
+    "Version": "0x00000000000AAAED"
+  },
+  {
+    "Id": 3369,
+    "CountryCode": "NZ",
+    "PostCode": 7604,
+    "Suburb": "PREBBLETON",
+    "Latitude": -43.58143,
+    "Longitude": 172.5108,
+    "Version": "0x00000000000AAAEE"
+  },
+  {
+    "Id": 3370,
+    "CountryCode": "NZ",
+    "PostCode": 7608,
+    "Suburb": "LINCOLN",
+    "Latitude": -43.64788,
+    "Longitude": 172.4875,
+    "Version": "0x00000000000AAAEF"
+  },
+  {
+    "Id": 3371,
+    "CountryCode": "NZ",
+    "PostCode": 7610,
+    "Suburb": "WOODEND",
+    "Latitude": -43.3169,
+    "Longitude": 172.6634,
+    "Version": "0x00000000000AAAF0"
+  },
+  {
+    "Id": 3372,
+    "CountryCode": "NZ",
+    "PostCode": 7614,
+    "Suburb": "ROLLESTON",
+    "Latitude": -43.59587,
+    "Longitude": 172.3891,
+    "Version": "0x00000000000AAAF1"
+  },
+  {
+    "Id": 3373,
+    "CountryCode": "NZ",
+    "PostCode": 7630,
+    "Suburb": "PINES BEACH",
+    "Latitude": -43.37432,
+    "Longitude": 172.7036,
+    "Version": "0x00000000000AAAF2"
+  },
+  {
+    "Id": 3374,
+    "CountryCode": "NZ",
+    "PostCode": 7632,
+    "Suburb": "LEESTON",
+    "Latitude": -43.76707,
+    "Longitude": 172.2914,
+    "Version": "0x00000000000AAAF3"
+  },
+  {
+    "Id": 3375,
+    "CountryCode": "NZ",
+    "PostCode": 7700,
+    "Suburb": "HAMPSTEAD",
+    "Latitude": -43.90795,
+    "Longitude": 171.7668,
+    "Version": "0x00000000000AAAF4"
+  },
+  {
+    "Id": 3376,
+    "CountryCode": "NZ",
+    "PostCode": 7710,
+    "Suburb": "RAKAIA",
+    "Latitude": -43.82675,
+    "Longitude": 172.102,
+    "Version": "0x00000000000AAAF5"
+  },
+  {
+    "Id": 3377,
+    "CountryCode": "NZ",
+    "PostCode": 7730,
+    "Suburb": "METHVEN",
+    "Latitude": -43.62962,
+    "Longitude": 171.643,
+    "Version": "0x00000000000AAAF6"
+  },
+  {
+    "Id": 3378,
+    "CountryCode": "NZ",
+    "PostCode": 7802,
+    "Suburb": "COBDEN",
+    "Latitude": -42.43904,
+    "Longitude": 171.2133,
+    "Version": "0x00000000000AAAF7"
+  },
+  {
+    "Id": 3379,
+    "CountryCode": "NZ",
+    "PostCode": 7803,
+    "Suburb": "RAPAHOE",
+    "Latitude": -42.37551,
+    "Longitude": 171.246,
+    "Version": "0x00000000000AAAF8"
+  },
+  {
+    "Id": 3380,
+    "CountryCode": "NZ",
+    "PostCode": 7804,
+    "Suburb": "BLACKBALL",
+    "Latitude": -42.35682,
+    "Longitude": 171.3572,
+    "Version": "0x00000000000AAAF9"
+  },
+  {
+    "Id": 3381,
+    "CountryCode": "NZ",
+    "PostCode": 7805,
+    "Suburb": "KAIATA",
+    "Latitude": -42.47729,
+    "Longitude": 171.2722,
+    "Version": "0x00000000000AAAFA"
+  },
+  {
+    "Id": 3382,
+    "CountryCode": "NZ",
+    "PostCode": 7810,
+    "Suburb": "HOKITIKA",
+    "Latitude": -42.71563,
+    "Longitude": 170.9807,
+    "Version": "0x00000000000AAAFB"
+  },
+  {
+    "Id": 3383,
+    "CountryCode": "NZ",
+    "PostCode": 7811,
+    "Suburb": "KANIERE",
+    "Latitude": -42.7465,
+    "Longitude": 171.005,
+    "Version": "0x00000000000AAAFC"
+  },
+  {
+    "Id": 3384,
+    "CountryCode": "NZ",
+    "PostCode": 7812,
+    "Suburb": "ROSS",
+    "Latitude": -42.89814,
+    "Longitude": 170.8197,
+    "Version": "0x00000000000AAAFD"
+  },
+  {
+    "Id": 3385,
+    "CountryCode": "NZ",
+    "PostCode": 7822,
+    "Suburb": "HECTOR",
+    "Latitude": -41.60322,
+    "Longitude": 171.8825,
+    "Version": "0x00000000000AAAFE"
+  },
+  {
+    "Id": 3386,
+    "CountryCode": "NZ",
+    "PostCode": 7823,
+    "Suburb": "GRANITY",
+    "Latitude": -41.63179,
+    "Longitude": 171.8528,
+    "Version": "0x00000000000AAAFF"
+  },
+  {
+    "Id": 3387,
+    "CountryCode": "NZ",
+    "PostCode": 7825,
+    "Suburb": "WESTPORT",
+    "Latitude": -41.76269,
+    "Longitude": 171.6176,
+    "Version": "0x00000000000AAB01"
+  },
+  {
+    "Id": 3388,
+    "CountryCode": "NZ",
+    "PostCode": 7830,
+    "Suburb": "REEFTON",
+    "Latitude": -42.12224,
+    "Longitude": 171.8573,
+    "Version": "0x00000000000AAB02"
+  },
+  {
+    "Id": 3389,
+    "CountryCode": "NZ",
+    "PostCode": 7832,
+    "Suburb": "KUMARA",
+    "Latitude": -42.63063,
+    "Longitude": 171.1818,
+    "Version": "0x00000000000AAB03"
+  },
+  {
+    "Id": 3390,
+    "CountryCode": "NZ",
+    "PostCode": 7901,
+    "Suburb": "OHAU",
+    "Latitude": -44.26608,
+    "Longitude": 170.0984,
+    "Version": "0x00000000000AAB04"
+  },
+  {
+    "Id": 3391,
+    "CountryCode": "NZ",
+    "PostCode": 7903,
+    "Suburb": "PLEASANT POINT",
+    "Latitude": -44.25949,
+    "Longitude": 171.1324,
+    "Version": "0x00000000000AAB05"
+  },
+  {
+    "Id": 3392,
+    "CountryCode": "NZ",
+    "PostCode": 7910,
+    "Suburb": "SEAVIEW",
+    "Latitude": -44.39145,
+    "Longitude": 171.2448,
+    "Version": "0x00000000000AAB06"
+  },
+  {
+    "Id": 3393,
+    "CountryCode": "NZ",
+    "PostCode": 7912,
+    "Suburb": "KINGSDOWN",
+    "Latitude": -44.48923,
+    "Longitude": 171.2103,
+    "Version": "0x00000000000AAB07"
+  },
+  {
+    "Id": 3394,
+    "CountryCode": "NZ",
+    "PostCode": 7920,
+    "Suburb": "TEMUKA",
+    "Latitude": -44.24339,
+    "Longitude": 171.2901,
+    "Version": "0x00000000000AAB08"
+  },
+  {
+    "Id": 3395,
+    "CountryCode": "NZ",
+    "PostCode": 7924,
+    "Suburb": "WAIMATE",
+    "Latitude": -44.72633,
+    "Longitude": 171.0305,
+    "Version": "0x00000000000AAB09"
+  },
+  {
+    "Id": 3396,
+    "CountryCode": "NZ",
+    "PostCode": 7925,
+    "Suburb": "FAIRLIE",
+    "Latitude": -44.159,
+    "Longitude": 170.8526,
+    "Version": "0x00000000000AAB0A"
+  },
+  {
+    "Id": 3397,
+    "CountryCode": "NZ",
+    "PostCode": 7930,
+    "Suburb": "GERALDINE",
+    "Latitude": -44.09275,
+    "Longitude": 171.2368,
+    "Version": "0x00000000000AAB0B"
+  },
+  {
+    "Id": 3398,
+    "CountryCode": "NZ",
+    "PostCode": 7999,
+    "Suburb": "TEKAPO",
+    "Latitude": -44.00694,
+    "Longitude": 170.4825,
+    "Version": "0x00000000000AAB0C"
+  },
+  {
+    "Id": 3399,
+    "CountryCode": "NZ",
+    "PostCode": 8011,
+    "Suburb": "CHRISTCHURCH CENTRAL",
+    "Latitude": -43.53759,
+    "Longitude": 172.6299,
+    "Version": "0x00000000000AAB0D"
+  },
+  {
+    "Id": 3400,
+    "CountryCode": "NZ",
+    "PostCode": 8013,
+    "Suburb": "MAIREHAU",
+    "Latitude": -43.496,
+    "Longitude": 172.6493,
+    "Version": "0x00000000000AAB0E"
+  },
+  {
+    "Id": 3401,
+    "CountryCode": "NZ",
+    "PostCode": 8014,
+    "Suburb": "ST ALBANS",
+    "Latitude": -43.51407,
+    "Longitude": 172.6288,
+    "Version": "0x00000000000AAB0F"
+  },
+  {
+    "Id": 3402,
+    "CountryCode": "NZ",
+    "PostCode": 8022,
+    "Suburb": "HILLSBOROUGH",
+    "Latitude": -43.56698,
+    "Longitude": 172.6583,
+    "Version": "0x00000000000AAB10"
+  },
+  {
+    "Id": 3403,
+    "CountryCode": "NZ",
+    "PostCode": 8023,
+    "Suburb": "WALTHAM",
+    "Latitude": -43.55219,
+    "Longitude": 172.6566,
+    "Version": "0x00000000000AAB11"
+  },
+  {
+    "Id": 3404,
+    "CountryCode": "NZ",
+    "PostCode": 8024,
+    "Suburb": "BARRINGTON",
+    "Latitude": -43.55901,
+    "Longitude": 172.6191,
+    "Version": "0x00000000000AAB12"
+  },
+  {
+    "Id": 3405,
+    "CountryCode": "NZ",
+    "PostCode": 8025,
+    "Suburb": "HALSWELL",
+    "Latitude": -43.57409,
+    "Longitude": 172.556,
+    "Version": "0x00000000000AAB13"
+  },
+  {
+    "Id": 3406,
+    "CountryCode": "NZ",
+    "PostCode": 8041,
+    "Suburb": "RICCARTON",
+    "Latitude": -43.53051,
+    "Longitude": 172.597,
+    "Version": "0x00000000000AAB14"
+  },
+  {
+    "Id": 3407,
+    "CountryCode": "NZ",
+    "PostCode": 8042,
+    "Suburb": "AVONHEAD",
+    "Latitude": -43.5225,
+    "Longitude": 172.5443,
+    "Version": "0x00000000000AAB15"
+  },
+  {
+    "Id": 3408,
+    "CountryCode": "NZ",
+    "PostCode": 8051,
+    "Suburb": "HAREWOOD",
+    "Latitude": -43.48087,
+    "Longitude": 172.5809,
+    "Version": "0x00000000000AAB16"
+  },
+  {
+    "Id": 3409,
+    "CountryCode": "NZ",
+    "PostCode": 8052,
+    "Suburb": "STROWAN",
+    "Latitude": -43.50866,
+    "Longitude": 172.6072,
+    "Version": "0x00000000000AAB17"
+  },
+  {
+    "Id": 3410,
+    "CountryCode": "NZ",
+    "PostCode": 8053,
+    "Suburb": "RUSSLEY",
+    "Latitude": -43.49118,
+    "Longitude": 172.5698,
+    "Version": "0x00000000000AAB18"
+  },
+  {
+    "Id": 3411,
+    "CountryCode": "NZ",
+    "PostCode": 8061,
+    "Suburb": "BURWOOD",
+    "Latitude": -43.50958,
+    "Longitude": 172.6691,
+    "Version": "0x00000000000AAB19"
+  },
+  {
+    "Id": 3412,
+    "CountryCode": "NZ",
+    "PostCode": 8062,
+    "Suburb": "PHILLIPSTOWN",
+    "Latitude": -43.53794,
+    "Longitude": 172.669,
+    "Version": "0x00000000000AAB1A"
+  },
+  {
+    "Id": 3413,
+    "CountryCode": "NZ",
+    "PostCode": 8081,
+    "Suburb": "SUMNER",
+    "Latitude": -43.57677,
+    "Longitude": 172.7751,
+    "Version": "0x00000000000AAB1B"
+  },
+  {
+    "Id": 3414,
+    "CountryCode": "NZ",
+    "PostCode": 8082,
+    "Suburb": "CASS BAY",
+    "Latitude": -43.60367,
+    "Longitude": 172.6913,
+    "Version": "0x00000000000AAB1C"
+  },
+  {
+    "Id": 3415,
+    "CountryCode": "NZ",
+    "PostCode": 8083,
+    "Suburb": "PARKLANDS",
+    "Latitude": -43.48323,
+    "Longitude": 172.7075,
+    "Version": "0x00000000000AAB1D"
+  },
+  {
+    "Id": 3416,
+    "CountryCode": "NZ",
+    "PostCode": 9010,
+    "Suburb": "PINE HILL",
+    "Latitude": -45.83975,
+    "Longitude": 170.5241,
+    "Version": "0x00000000000AAB1E"
+  },
+  {
+    "Id": 3417,
+    "CountryCode": "NZ",
+    "PostCode": 9011,
+    "Suburb": "LOOKOUT POINT",
+    "Latitude": -45.89485,
+    "Longitude": 170.4706,
+    "Version": "0x00000000000AAB1F"
+  },
+  {
+    "Id": 3418,
+    "CountryCode": "NZ",
+    "PostCode": 9012,
+    "Suburb": "SAINT CLAIR",
+    "Latitude": -45.91117,
+    "Longitude": 170.4796,
+    "Version": "0x00000000000AAB20"
+  },
+  {
+    "Id": 3419,
+    "CountryCode": "NZ",
+    "PostCode": 9013,
+    "Suburb": "SHIEL HILL",
+    "Latitude": -45.8919,
+    "Longitude": 170.539,
+    "Version": "0x00000000000AAB21"
+  },
+  {
+    "Id": 3420,
+    "CountryCode": "NZ",
+    "PostCode": 9014,
+    "Suburb": "PORTOBELLO",
+    "Latitude": -45.85646,
+    "Longitude": 170.676,
+    "Version": "0x00000000000AAB22"
+  },
+  {
+    "Id": 3421,
+    "CountryCode": "NZ",
+    "PostCode": 9016,
+    "Suburb": "DUNEDIN CENTRAL",
+    "Latitude": -45.87678,
+    "Longitude": 170.4917,
+    "Version": "0x00000000000AAB23"
+  },
+  {
+    "Id": 3422,
+    "CountryCode": "NZ",
+    "PostCode": 9018,
+    "Suburb": "GREEN ISLAND",
+    "Latitude": -45.90013,
+    "Longitude": 170.4242,
+    "Version": "0x00000000000AAB24"
+  },
+  {
+    "Id": 3423,
+    "CountryCode": "NZ",
+    "PostCode": 9019,
+    "Suburb": "OUTRAM",
+    "Latitude": -45.85978,
+    "Longitude": 170.2318,
+    "Version": "0x00000000000AAB25"
+  },
+  {
+    "Id": 3424,
+    "CountryCode": "NZ",
+    "PostCode": 9022,
+    "Suburb": "RAVENSBOURNE",
+    "Latitude": -45.8658,
+    "Longitude": 170.5488,
+    "Version": "0x00000000000AAB26"
+  },
+  {
+    "Id": 3425,
+    "CountryCode": "NZ",
+    "PostCode": 9023,
+    "Suburb": "PORT CHALMERS",
+    "Latitude": -45.81638,
+    "Longitude": 170.6186,
+    "Version": "0x00000000000AAB27"
+  },
+  {
+    "Id": 3426,
+    "CountryCode": "NZ",
+    "PostCode": 9024,
+    "Suburb": "MOSGIEL",
+    "Latitude": -45.87333,
+    "Longitude": 170.3632,
+    "Version": "0x00000000000AAB28"
+  },
+  {
+    "Id": 3427,
+    "CountryCode": "NZ",
+    "PostCode": 9035,
+    "Suburb": "BRIGHTON",
+    "Latitude": -45.94714,
+    "Longitude": 170.3277,
+    "Version": "0x00000000000AAB29"
+  },
+  {
+    "Id": 3428,
+    "CountryCode": "NZ",
+    "PostCode": 9210,
+    "Suburb": "KAITANGATA",
+    "Latitude": -46.27327,
+    "Longitude": 169.8479,
+    "Version": "0x00000000000AAB2A"
+  },
+  {
+    "Id": 3429,
+    "CountryCode": "NZ",
+    "PostCode": 9220,
+    "Suburb": "MILTON",
+    "Latitude": -46.12051,
+    "Longitude": 169.9633,
+    "Version": "0x00000000000AAB2B"
+  },
+  {
+    "Id": 3430,
+    "CountryCode": "NZ",
+    "PostCode": 9230,
+    "Suburb": "BALCLUTHA",
+    "Latitude": -46.24446,
+    "Longitude": 169.7276,
+    "Version": "0x00000000000AAB2C"
+  },
+  {
+    "Id": 3431,
+    "CountryCode": "NZ",
+    "PostCode": 9231,
+    "Suburb": "STIRLING",
+    "Latitude": -46.25858,
+    "Longitude": 169.7863,
+    "Version": "0x00000000000AAB2D"
+  },
+  {
+    "Id": 3432,
+    "CountryCode": "NZ",
+    "PostCode": 9300,
+    "Suburb": "QUEENSTOWN",
+    "Latitude": -45.03487,
+    "Longitude": 168.6677,
+    "Version": "0x00000000000AAB2E"
+  },
+  {
+    "Id": 3433,
+    "CountryCode": "NZ",
+    "PostCode": 9302,
+    "Suburb": "ARROWTOWN",
+    "Latitude": -44.94551,
+    "Longitude": 168.836,
+    "Version": "0x00000000000AAB2F"
+  },
+  {
+    "Id": 3434,
+    "CountryCode": "NZ",
+    "PostCode": 9305,
+    "Suburb": "WANAKA",
+    "Latitude": -44.68689,
+    "Longitude": 169.1463,
+    "Version": "0x00000000000AAB30"
+  },
+  {
+    "Id": 3435,
+    "CountryCode": "NZ",
+    "PostCode": 9310,
+    "Suburb": "CROMWELL",
+    "Latitude": -45.04482,
+    "Longitude": 169.2068,
+    "Version": "0x00000000000AAB31"
+  },
+  {
+    "Id": 3436,
+    "CountryCode": "NZ",
+    "PostCode": 9320,
+    "Suburb": "BRIDGE HILL",
+    "Latitude": -45.29872,
+    "Longitude": 169.3352,
+    "Version": "0x00000000000AAB32"
+  },
+  {
+    "Id": 3437,
+    "CountryCode": "NZ",
+    "PostCode": 9330,
+    "Suburb": "CLYDE",
+    "Latitude": -45.19408,
+    "Longitude": 169.3329,
+    "Version": "0x00000000000AAB33"
+  },
+  {
+    "Id": 3438,
+    "CountryCode": "NZ",
+    "PostCode": 9332,
+    "Suburb": "RANFURLY",
+    "Latitude": -45.12677,
+    "Longitude": 170.1011,
+    "Version": "0x00000000000AAB34"
+  },
+  {
+    "Id": 3439,
+    "CountryCode": "NZ",
+    "PostCode": 9400,
+    "Suburb": "OAMARU CENTRAL",
+    "Latitude": -45.102,
+    "Longitude": 170.9574,
+    "Version": "0x00000000000AAB35"
+  },
+  {
+    "Id": 3440,
+    "CountryCode": "NZ",
+    "PostCode": 9401,
+    "Suburb": "WESTON",
+    "Latitude": -45.03532,
+    "Longitude": 170.9193,
+    "Version": "0x00000000000AAB36"
+  },
+  {
+    "Id": 3441,
+    "CountryCode": "NZ",
+    "PostCode": 9410,
+    "Suburb": "HAMPDEN",
+    "Latitude": -45.32431,
+    "Longitude": 170.8113,
+    "Version": "0x00000000000AAB37"
+  },
+  {
+    "Id": 3442,
+    "CountryCode": "NZ",
+    "PostCode": 9412,
+    "Suburb": "OMARAMA",
+    "Latitude": -44.49222,
+    "Longitude": 169.9692,
+    "Version": "0x00000000000AAB38"
+  },
+  {
+    "Id": 3443,
+    "CountryCode": "NZ",
+    "PostCode": 9430,
+    "Suburb": "PALMERSTON",
+    "Latitude": -45.48293,
+    "Longitude": 170.7161,
+    "Version": "0x00000000000AAB39"
+  },
+  {
+    "Id": 3444,
+    "CountryCode": "NZ",
+    "PostCode": 9435,
+    "Suburb": "KUROW",
+    "Latitude": -44.69781,
+    "Longitude": 170.3924,
+    "Version": "0x00000000000AAB3A"
+  },
+  {
+    "Id": 3445,
+    "CountryCode": "NZ",
+    "PostCode": 9500,
+    "Suburb": "ROXBURGH",
+    "Latitude": -45.53928,
+    "Longitude": 169.3128,
+    "Version": "0x00000000000AAB3B"
+  },
+  {
+    "Id": 3446,
+    "CountryCode": "NZ",
+    "PostCode": 9510,
+    "Suburb": "WAIKOUAITI",
+    "Latitude": -45.59024,
+    "Longitude": 170.6845,
+    "Version": "0x00000000000AAB3C"
+  },
+  {
+    "Id": 3447,
+    "CountryCode": "NZ",
+    "PostCode": 9522,
+    "Suburb": "TAPANUI",
+    "Latitude": -45.94584,
+    "Longitude": 169.2651,
+    "Version": "0x00000000000AAB3D"
+  },
+  {
+    "Id": 3448,
+    "CountryCode": "NZ",
+    "PostCode": 9532,
+    "Suburb": "LAWRENCE",
+    "Latitude": -45.91417,
+    "Longitude": 169.6836,
+    "Version": "0x00000000000AAB3E"
+  },
+  {
+    "Id": 3449,
+    "CountryCode": "NZ",
+    "PostCode": 9534,
+    "Suburb": "CLINTON",
+    "Latitude": -46.20134,
+    "Longitude": 169.3798,
+    "Version": "0x00000000000AAB3F"
+  },
+  {
+    "Id": 3450,
+    "CountryCode": "NZ",
+    "PostCode": 9535,
+    "Suburb": "OWAKA",
+    "Latitude": -46.45388,
+    "Longitude": 169.6585,
+    "Version": "0x00000000000AAB40"
+  },
+  {
+    "Id": 3451,
+    "CountryCode": "NZ",
+    "PostCode": 9600,
+    "Suburb": "TE ANAU",
+    "Latitude": -45.41371,
+    "Longitude": 167.7286,
+    "Version": "0x00000000000AAB41"
+  },
+  {
+    "Id": 3452,
+    "CountryCode": "NZ",
+    "PostCode": 9610,
+    "Suburb": "OTAUTAU",
+    "Latitude": -46.14215,
+    "Longitude": 167.9984,
+    "Version": "0x00000000000AAB42"
+  },
+  {
+    "Id": 3453,
+    "CountryCode": "NZ",
+    "PostCode": 9620,
+    "Suburb": "TUATAPERE",
+    "Latitude": -46.13556,
+    "Longitude": 167.6863,
+    "Version": "0x00000000000AAB43"
+  },
+  {
+    "Id": 3454,
+    "CountryCode": "NZ",
+    "PostCode": 9630,
+    "Suburb": "NIGHTCAPS",
+    "Latitude": -45.97326,
+    "Longitude": 168.0331,
+    "Version": "0x00000000000AAB44"
+  },
+  {
+    "Id": 3455,
+    "CountryCode": "NZ",
+    "PostCode": 9635,
+    "Suburb": "OHAI",
+    "Latitude": -45.93333,
+    "Longitude": 167.9554,
+    "Version": "0x00000000000AAB45"
+  },
+  {
+    "Id": 3456,
+    "CountryCode": "NZ",
+    "PostCode": 9710,
+    "Suburb": "GORE",
+    "Latitude": -46.09778,
+    "Longitude": 168.9358,
+    "Version": "0x00000000000AAB46"
+  },
+  {
+    "Id": 3457,
+    "CountryCode": "NZ",
+    "PostCode": 9712,
+    "Suburb": "MATAURA",
+    "Latitude": -46.19613,
+    "Longitude": 168.8591,
+    "Version": "0x00000000000AAB47"
+  },
+  {
+    "Id": 3458,
+    "CountryCode": "NZ",
+    "PostCode": 9720,
+    "Suburb": "WINTON",
+    "Latitude": -46.13467,
+    "Longitude": 168.3218,
+    "Version": "0x00000000000AAB48"
+  },
+  {
+    "Id": 3459,
+    "CountryCode": "NZ",
+    "PostCode": 9730,
+    "Suburb": "LUMSDEN",
+    "Latitude": -45.74187,
+    "Longitude": 168.4401,
+    "Version": "0x00000000000AAB49"
+  },
+  {
+    "Id": 3460,
+    "CountryCode": "NZ",
+    "PostCode": 9810,
+    "Suburb": "INVERCARGILL CENTRAL",
+    "Latitude": -46.41289,
+    "Longitude": 168.3566,
+    "Version": "0x00000000000AAB4A"
+  },
+  {
+    "Id": 3461,
+    "CountryCode": "NZ",
+    "PostCode": 9812,
+    "Suburb": "KINGSWELL",
+    "Latitude": -46.43766,
+    "Longitude": 168.3652,
+    "Version": "0x00000000000AAB4B"
+  },
+  {
+    "Id": 3462,
+    "CountryCode": "NZ",
+    "PostCode": 9814,
+    "Suburb": "BLUFF",
+    "Latitude": -46.60374,
+    "Longitude": 168.3474,
+    "Version": "0x00000000000AAB4C"
+  },
+  {
+    "Id": 3463,
+    "CountryCode": "NZ",
+    "PostCode": 9816,
+    "Suburb": "WALLACETOWN",
+    "Latitude": -46.33851,
+    "Longitude": 168.2833,
+    "Version": "0x00000000000AAB4D"
+  },
+  {
+    "Id": 3464,
+    "CountryCode": "NZ",
+    "PostCode": 9818,
+    "Suburb": "STEWART ISLAND",
+    "Latitude": -46.89671,
+    "Longitude": 168.1121,
+    "Version": "0x00000000000AAB4E"
+  },
+  {
+    "Id": 3465,
+    "CountryCode": "NZ",
+    "PostCode": 9822,
+    "Suburb": "RIVERTON ROCKS",
+    "Latitude": -46.36824,
+    "Longitude": 168.0191,
+    "Version": "0x00000000000AAB4F"
+  },
+  {
+    "Id": 3466,
+    "CountryCode": "NZ",
+    "PostCode": 9825,
+    "Suburb": "EDENDALE",
+    "Latitude": -46.31211,
+    "Longitude": 168.782,
+    "Version": "0x00000000000AAB50"
+  },
+  {
+    "Id": 3467,
+    "CountryCode": "NZ",
+    "PostCode": 9831,
+    "Suburb": "WYNDHAM",
+    "Latitude": -46.32754,
+    "Longitude": 168.8458,
+    "Version": "0x00000000000AAB51"
+  },
+  {
+    "Id": 3468,
+    "CountryCode": "NZ",
+    "PostCode": 9888,
+    "Suburb": "RAES JUNCTION",
+    "Latitude": -45.84681,
+    "Longitude": 169.5847,
+    "Version": "0x00000000000AAB52"
+  }
+]

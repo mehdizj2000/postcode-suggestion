@@ -1,0 +1,1 @@
+CREATE TABLE ADDRESS AS SELECT * FROM CSVREAD('classpath:nz_codes.csv');
